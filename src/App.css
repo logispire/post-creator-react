@@ -1,0 +1,48 @@
+.img {
+
+	position: relative;
+	left: 377px;
+	top: 98px;
+	z-index: -1;
+    /* width: 100px !important; */
+    /* height: 100px !important; */
+	display: inline-block;
+}
+
+.sub-img{
+    width: 200px;
+    height: 200px;
+}
+
+*,
+::after,
+::before {
+	box-sizing: none !important;
+}
+
+.text {
+	left: 370px;
+    top: 307px;
+    /* top: 100px; */
+	position: relative;
+}
+
+.main-part{
+    width: 600px;
+    height: 100vh;
+}
+/* .download{
+    transform: scale(2);
+} */
+
+.box{
+    height: 220px !important;
+    position: absolute;
+    width: 220px;
+    top: 93px;
+    left: 371px;
+    z-index: -1;
+}
+
+
+
